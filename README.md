@@ -66,10 +66,15 @@ The model achieved the following performance metrics on the test dataset:
 
 ### 4.2 Visualizations
 Key visualizations were generated to provide insights into model performance:
-- **Confusion Matrix**: Illustrated the classification accuracy for each class.
-- **Feature Importance**: Highlighted the most significant features contributing to the model's predictions.
-- **Learning Curves**: Demonstrated the model's performance over varying training sizes.
-- **ROC Curve**: Showed the model's ability to distinguish between different classes.
+<img width="704" alt="image" src="https://github.com/nishan2293/Mobile-Price-Classification-Using-SKLearn-and-Amazon-SageMaker/assets/157925518/37125a17-56a7-4e73-8fc2-9d1f4dbf937c">
+
+<img width="807" alt="image" src="https://github.com/nishan2293/Mobile-Price-Classification-Using-SKLearn-and-Amazon-SageMaker/assets/157925518/2c8ee647-dc8a-4d0d-b7e6-931a2135c7d3">
+
+<img width="751" alt="image" src="https://github.com/nishan2293/Mobile-Price-Classification-Using-SKLearn-and-Amazon-SageMaker/assets/157925518/0494cbc3-91dc-4b9b-8eab-7dc6bce3373e">
+
+<img width="823" alt="image" src="https://github.com/nishan2293/Mobile-Price-Classification-Using-SKLearn-and-Amazon-SageMaker/assets/157925518/44ea9ba4-b6b1-45b7-8e36-a8ea80deabe6">
+
+<img width="822" alt="image" src="https://github.com/nishan2293/Mobile-Price-Classification-Using-SKLearn-and-Amazon-SageMaker/assets/157925518/2f53ea5b-666d-48a4-bc4b-42e7c1f86cd1">
 
 ## 5. Conclusion
 
